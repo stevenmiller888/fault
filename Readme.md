@@ -9,7 +9,7 @@
 ## Installation
 
 ```bash
-$ npm install fault
+$ npm install fault-tree
 ```
 
 ## Usage
