@@ -15,7 +15,7 @@ $ npm install fault
 ## Usage
 
 ```js
-var Fault = require('Fault');
+var Fault = require('fault-tree');
 
 var fault = Fault('server failure')
   .cause('security compromised')
